@@ -11,8 +11,8 @@ import javax.servlet.http.HttpServletResponse;
  * Created by rocky on 18/3/13.
  */
 @Controller
-@RequestMapping("/massage")
-public class MassageController {
+@RequestMapping("/message")
+public class MessageController {
 
     @Resource
     private SimpleBot simpleBot;
