@@ -6,7 +6,7 @@
     <!-- 区分项目名称，防止默认重名 -->
     <context-param>
         <param-name>webAppRootKey</param-name>
-        <param-value>empty-spring-web</param-value>
+        <param-value>bit-notification</param-value>
     </context-param>
     <context-param>
         <param-name>contextConfigLocation</param-name>
